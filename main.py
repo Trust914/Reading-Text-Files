@@ -24,4 +24,4 @@ def count_words(sentence):
             counter[the_word] = text.count(the_word)
     
     return counter
-print(count_words("The cake is done. It is a big cake!" ))
+print(count_words("This is interesting" ))
